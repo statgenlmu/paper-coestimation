@@ -2,7 +2,7 @@ Raw Data
 ========
 
 I got the data used here from Stephan Hutter. It resides on the internal server
-of the evolutionary genetics group in Munich, http://intra.evolution.bzm
+of the evolutionary genetics group in Munich.
 
 
 Data Format
