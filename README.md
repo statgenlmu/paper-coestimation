@@ -1,6 +1,6 @@
 # Joint Inference of Demography and Recent Positive Selection
 
-This repository contains the source code used for the analyses in the Publikation
+This repository contains the source code used for the analyses in the manuscript
 *Joint Inference of Demography and Recent Positive Selection*.
 
 Content
