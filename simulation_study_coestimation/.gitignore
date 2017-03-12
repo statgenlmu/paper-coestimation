@@ -1,0 +1,4 @@
+packrat/lib*/
+logs
+data/*.Rda
+packrat/src/

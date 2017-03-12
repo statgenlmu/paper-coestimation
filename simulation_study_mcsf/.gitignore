@@ -1,0 +1,5 @@
+.RData
+packrat/lib*/
+data
+cache
+packrat/src/
