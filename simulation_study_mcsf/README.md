@@ -5,9 +5,9 @@ This folder contains the source code for the simulation study that evaluates the
 
 ## Analysis
 The Analysis was conducted by executing the scripts with leading numbers in 
-[./scripts](https://github.com/statgenlmu/paper-coestimation/tree/master/simulation_study_mcsf/R)
+[./scripts](https://github.com/statgenlmu/paper-coestimation/tree/master/simulation_study_mcsf/scripts)
 in order of the leading numbers.
 
 ## Results
 The results of the analysis are available in the folder 
-[./figures](https://github.com/statgenlmu/paper-coestimation/tree/master/simulation_study_mcsf/plots).
+[./figures](https://github.com/statgenlmu/paper-coestimation/tree/master/simulation_study_mcsf/figures).
