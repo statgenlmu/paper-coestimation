@@ -32,13 +32,13 @@ Used Lines
 | FR151 | Europe | https://www.ncbi.nlm.nih.gov/sra/?term=SRX058183 | Lyon, France
 | FR207 | Europe | https://www.ncbi.nlm.nih.gov/sra/?term=SRX058185 | Lyon, France
 | FR310 | Europe | https://www.ncbi.nlm.nih.gov/sra/?term=SRX058188 | Lyon, France
-| NL1 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
-| NL2 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
-| NL12 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
-| NL14 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
-| NL17 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
-| NL18 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 |  Leiden, The Netherlands
-| NL19 | Europe | http://evol.bio.lmu.de/ data/NL.tar.bz2 | Leiden, The Netherlands
+| NL1 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
+| NL2 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
+| NL12 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
+| NL14 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
+| NL17 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
+| NL18 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 |  Leiden, The Netherlands
+| NL19 | Europe | http://evol.bio.lmu.de/_data/NL.tar.bz2 | Leiden, The Netherlands
 
 
 Preprocessing
